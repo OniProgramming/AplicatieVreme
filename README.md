@@ -36,3 +36,6 @@ What we need to do now, is just to type a name of a city on which we want to obt
 ## Boston
 
 <img src="bostonUS.jpg">
+
+
+The application can be developed futher by adding analyzing maps and graphics.
