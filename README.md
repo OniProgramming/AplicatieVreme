@@ -19,3 +19,20 @@ After we type the comand runserver in git bash and we open our broweser and type
 
 <img src="home.jpg">
 
+What we need to do now, is just to type a name of a city on which we want to obtain information about the weather. Bellow are some examples of cities with their wether information.
+
+## Seoul
+
+<img src="Seoul.jpg">
+
+## Incheon
+
+<img src="Incheon.jpg">
+
+## Bucharest
+
+<img src="bucharest.jpg">
+
+## Boston
+
+<img src="boston.jpg">
