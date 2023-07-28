@@ -23,16 +23,16 @@ What we need to do now, is just to type a name of a city on which we want to obt
 
 ## Seoul
 
-<img src="Seoul.jpg">
+<img src="SeoulKR.jpg">
 
 ## Incheon
 
-<img src="Incheon.jpg">
+<img src="IncheonKR.jpg">
 
 ## Bucharest
 
-<img src="bucharest.jpg">
+<img src="bucharestRO.jpg">
 
 ## Boston
 
-<img src="boston.jpg">
+<img src="bostonUS.jpg">
