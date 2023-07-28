@@ -17,3 +17,5 @@ The APIs were taken from https://openweathermap.org/api
 
 After we type the comand runserver in git bash and we open our broweser and type localhost:8000 we will get this page:
 
+<img src="home.jpg">
+
